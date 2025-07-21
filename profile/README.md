@@ -1,5 +1,5 @@
 # **F.A8S**
-## **FAST AGILE INFINITY SOLUTIONS**
+## **FAST AGILE INFINITE SOLUTIONS**
 
 ---
 
@@ -38,7 +38,7 @@ Building robust, scalable backend systems that power modern applications with en
 ```
 FAST     → Rapid development and deployment
 AGILE    → Flexible, iterative methodologies  
-INFINITY → Scalable solutions that grow with you
+INFINITE → Scalable solutions that grow with you
 SOLUTIONS → End-to-end problem solving
 ```
 
@@ -80,7 +80,7 @@ We're always excited to work on innovative projects and help bring your ideas to
 
 ### **EST. 2024**
 
-**© 2025 Fast Agile Infinity Solutions. All rights reserved.**
+**© 2025 Fast Agile Infinite Solutions. All rights reserved.**
 
 *Designed and developed with passion by F.A8S*
 
