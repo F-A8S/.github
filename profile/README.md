@@ -82,7 +82,7 @@ We're always excited to work on innovative projects and help bring your ideas to
 
 **© 2025 Fast Agile Infinite Solutions. All rights reserved.**
 
-*Designed and developed with passion by F.A8S*
+*Cooked by F.\8S*
 
 ---
 
